@@ -1,0 +1,28 @@
+{
+  "iceberg_id": "IB001",
+  "prediction_timestamp": "2026-09-13T06:00:00Z",
+  "forecast_interval_hours": 6,
+  "forecast": [
+    {
+      "hours": 24,
+      "timestamp": "2026-09-14T06:00:00Z",
+      "latitude": -64.3428,
+      "longitude": 52.2321,
+      "uncertainty_km": 8.58
+    },
+    {
+      "hours": 48,
+      "timestamp": "2026-09-15T06:00:00Z",
+      "latitude": -64.8168,
+      "longitude": 51.4992,
+      "uncertainty_km": 16.3
+    },
+    {
+      "hours": 72,
+      "timestamp": "2026-09-16T06:00:00Z",
+      "latitude": -64.8692,
+      "longitude": 51.3774,
+      "uncertainty_km": 25.18
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "model": "IcebergLSTM",
+  "epochs": 15,
+  "sequence_length": 5,
+  "train_samples": 108,
+  "val_samples": 27,
+  "final_train_mse": 0.031137256572643917,
+  "final_val_mse": 0.1816787432741236,
+  "best_val_mse": 0.17729935381147596,
+  "mae_latitude_deg": 0.3058,
+  "mae_longitude_deg": 0.279,
+  "rmse_latitude_deg": 0.3396,
+  "rmse_longitude_deg": 0.3407,
+  "mean_geographic_error_km": 37.01,
+  "rmse_geographic_error_km": 41.52
+}
