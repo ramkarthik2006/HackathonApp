@@ -1,0 +1,119 @@
+{
+  "success": true,
+  "route": [
+    {
+      "row": 0,
+      "col": 0
+    },
+    {
+      "row": 1,
+      "col": 0
+    },
+    {
+      "row": 2,
+      "col": 0
+    },
+    {
+      "row": 3,
+      "col": 0
+    },
+    {
+      "row": 4,
+      "col": 1
+    },
+    {
+      "row": 5,
+      "col": 2
+    },
+    {
+      "row": 6,
+      "col": 2
+    },
+    {
+      "row": 7,
+      "col": 3
+    },
+    {
+      "row": 7,
+      "col": 4
+    },
+    {
+      "row": 7,
+      "col": 5
+    },
+    {
+      "row": 7,
+      "col": 6
+    },
+    {
+      "row": 7,
+      "col": 7
+    }
+  ],
+  "number_of_waypoints": 12,
+  "total_distance": 12.2426,
+  "average_risk": 0.075,
+  "total_risk": 0.9,
+  "risk_weight": 10.0,
+  "critical_threshold": 0.95,
+  "start": {
+    "latitude": -64.0,
+    "longitude": 52.0
+  },
+  "destination": {
+    "latitude": -64.3153,
+    "longitude": 52.7193
+  },
+  "geo_route": [
+    {
+      "latitude": -64.0,
+      "longitude": 52.0
+    },
+    {
+      "latitude": -64.045,
+      "longitude": 52.0
+    },
+    {
+      "latitude": -64.0901,
+      "longitude": 52.0
+    },
+    {
+      "latitude": -64.1351,
+      "longitude": 52.0
+    },
+    {
+      "latitude": -64.1802,
+      "longitude": 52.1028
+    },
+    {
+      "latitude": -64.2252,
+      "longitude": 52.2055
+    },
+    {
+      "latitude": -64.2703,
+      "longitude": 52.2055
+    },
+    {
+      "latitude": -64.3153,
+      "longitude": 52.3083
+    },
+    {
+      "latitude": -64.3153,
+      "longitude": 52.411
+    },
+    {
+      "latitude": -64.3153,
+      "longitude": 52.5138
+    },
+    {
+      "latitude": -64.3153,
+      "longitude": 52.6165
+    },
+    {
+      "latitude": -64.3153,
+      "longitude": 52.7193
+    }
+  ],
+  "distance_km": 61.21,
+  "risk_score": 0.075
+}
