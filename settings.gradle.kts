@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "HackathonApp"
 include(":app")
+include(":app")
